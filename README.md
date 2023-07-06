@@ -18,10 +18,11 @@ Java 8 or newer
 host - The IP address or hostname of the destination server.
 port - The port number of the destination server.
 
-For example:
+Example config.properties:
+```
 host=minemu.net
 port=25565
-
+```
 3- Run the jar file using the command:
 java -jar STRP4J.jar
 
